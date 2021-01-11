@@ -23,5 +23,3 @@ Things you may want to cover:
 
 * ...
 
-
-rails g scaffold log_score  points_worked_out:integer points_tracked_food:integer points_met_calorie_goal:integer points_maintain_weight:integer points_maintain_body_fat:integer points_met_active_calorie_goal:integer total_points: integer log:belongs_to challenge_goal:belongs_to  --no-test-framework
